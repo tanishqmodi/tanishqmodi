@@ -77,6 +77,28 @@ I'm a **Computer Science Engineering student at UPES (Class of 2027)** specializ
 
 ---
 
+## 🤖 Agentic AI, GenAI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+</p>
+
+| | What I've used | Where |
+|---|---|---|
+| 🧠 **LLMs** | OpenAI GPT-5.5, GPT-5.4-mini and GPT-4o-mini · Anthropic Claude · Perplexity · Qwen3-8B running locally with llama.cpp | GrowAhead, SkillPath, HimaVriksha AI |
+| 🕹️ **Agentic AI** | LangGraph multi-step agents · browser agents that plan a task, then click, type and fill forms (Playwright + Claude/OpenAI) · MCP servers with FastMCP | Computer Agent (GrowAhead's apply agent), ProcureAI tender-bidder agent, HimaVriksha alert explainer |
+| 📚 **RAG & Retrieval** | LangChain · ChromaDB · pgvector hybrid search · FAISS · OpenAI text-embedding-3-small · Sentence-Transformers | GrowAhead and JobHunt, PDF Q&A bot, Clinical Report Summarizer |
+| 🎙️ **Voice & Realtime** | OpenAI Realtime API · Whisper speech-to-text | God's Eye View (hands-free voice control) |
+| 🤗 **Open models** | Hugging Face Transformers and Hub | HimaVriksha AI |
+| 🎨 **Generative media** | Higgsfield AI image and video generation | GrowAhead ad videos |
+
+---
+
 ## 🌟 Featured Projects
 
 <table>
