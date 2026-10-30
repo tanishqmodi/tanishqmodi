@@ -91,6 +91,7 @@ I'm a **Computer Science Engineering student at UPES (Class of 2027)** specializ
 | | What I've used | Where |
 |---|---|---|
 | 🧠 **LLMs** | OpenAI GPT-5.5, GPT-5.4-mini and GPT-4o-mini · Anthropic Claude · Perplexity · Qwen3-8B running locally with llama.cpp | GrowAhead, SkillPath, HimaVriksha AI |
+| 🔌 **LLM APIs** | **OpenAI API**: Chat Completions and Responses, structured JSON outputs, tool calling, streaming, reasoning effort, embeddings · **Claude API**: Messages, tool use, prompt caching, automatic backup-key fallback · **Perplexity API**: company research | GrowAhead (FitDraft, JobHunt), Computer Agent, SkillPath |
 | 🕹️ **Agentic AI** | LangGraph multi-step agents · browser agents that plan a task, then click, type and fill forms (Playwright + Claude/OpenAI) · MCP servers with FastMCP | Computer Agent (GrowAhead's apply agent), ProcureAI tender-bidder agent, HimaVriksha alert explainer |
 | 📚 **RAG & Retrieval** | LangChain · ChromaDB · pgvector hybrid search · FAISS · OpenAI text-embedding-3-small · Sentence-Transformers | GrowAhead and JobHunt, PDF Q&A bot, Clinical Report Summarizer |
 | 🤗 **Open models** | Hugging Face Transformers and Hub | HimaVriksha AI |
