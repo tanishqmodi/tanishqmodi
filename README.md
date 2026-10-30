@@ -33,7 +33,7 @@ I'm a **Computer Science Engineering student at UPES (Class of 2027)** specializ
 
 ### Languages
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,ts,swift,rust,html,css,bash" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,html,css,bash" alt="Languages" /></a>
 
 ### AI / ML & Data
 
@@ -55,15 +55,15 @@ I'm a **Computer Science Engineering student at UPES (Class of 2027)** specializ
 
 ### Desktop Apps
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,tauri" alt="Desktop apps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows" alt="Desktop apps" /></a>
 
 ### Databases
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" alt="Databases" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Databases" /></a>
 
 ### Cloud & DevOps
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions" alt="Cloud and DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions" alt="Cloud and DevOps" /></a>
 
 ### Tools
 
